@@ -1,0 +1,135 @@
+* {
+	margin:0;
+	padding:0;
+	font-family: arial;
+}
+ 
+ 
+body {
+	background:#BDBDBD;
+}
+.container{
+padding: 0;
+background: #FFFFFA;
+min-height: 800px;
+
+}
+.container2{
+	width: 90%;
+}
+
+.logo{
+  float: left;
+  width: 300px;
+
+
+}
+.sistema{
+	font-family: 'Amaranth', sans-serif;
+	text-shadow: 2px 2px #81BEF7;
+}
+.deptoIng{
+	text-shadow: 1px 1px #81BEF7;
+}
+
+.jumbotron{
+	font-family: 'Alegreya SC', serif;
+	text-align: center;
+}
+ 
+ .navbar-default{
+	width:auto;
+	background:#045FB4!important;
+	border-style: 1px solid;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+    color:white!important;
+    font-size: 13px;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    color:#045FB4!important;
+    background: white;
+}
+
+ 
+.navbar-default:hover {
+	color:#045FB4!important;
+
+}
+.navbar-toggle{
+	background:#000057!important;
+}
+.navbar-toggle:hover{
+	opacity:0.6;
+}
+
+ 
+section {
+	padding:20px;
+}
+ 
+
+.jumbotron{
+	margin-bottom: 0!important;
+}
+.clave{
+	padding-right: 0!important;
+}
+
+legend{
+	text-align: center;
+	
+	color: #0B3B0B;
+}
+
+.btnEstatusStyle{
+	background-color: transparent;
+	border: none;
+	font-weight: bold;
+	margin-left: 50px;
+	color: green;
+}
+.btnEstatusStyle:hover{
+	color: #0B610B;
+	text-decoration: underline;
+
+}
+.separador{
+	border-style: dashed;
+	margin-left: 5%;
+	margin-right: 5%;
+	border-color:#CECEF6 -moz-use-text-color -moz-use-text-color!important ;
+}
+form{
+	margin: 20px;
+}
+.config{
+	padding: 20px;
+}
+.btnECorreo{
+	background-color: transparent;
+	color:#0B2161;
+}
+.btnResetearPass{
+	background-color: red;
+}
+.navbar-default .navbar-nav > .open > a{
+	background:#045FB4!important;
+
+}
+.navbar-default .navbar-nav > .open > a:hover{
+	background: white!important;
+}
+.navbar-default .navbar-nav > .open > a:focus, {
+	 background:#045FB4!important;
+}
+.submenuConfig, .submenuConfig >a {
+ background:#045FB4!important;
+ color: white!important;
+}
+.submenuConfig >a:hover{
+	color:#045FB4!important;
+	background: white!important;
+
+}

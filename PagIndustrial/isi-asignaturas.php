@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<?php 
+		include "header.php";
+	 ?>
+
+
+    <h1>Ingenieria en Sistemas de Información</h1>
+
+<div class="row">
+	<div class="col-md-6 col-md-offset-3">
+<table class="table table-bordered text-center">
+			<thead>
+				<tr>
+					<th>Clave</th>
+					<th>Asignatura</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr><td>0119</td><td>ACTIVIDADES CULTURALES Y DEPORTIVAS</td></tr><tr><td>0120</td><td><a href="http://dii.isi.uson.mx/asignaturas/0120.pdf">ESTRATEGIAS PARA APRENDER A APRENDER</a></td></tr><tr><td>0121</td><td><a href="http://dii.isi.uson.mx/asignaturas/0121.pdf">CARACTERISTICAS DE LA SOCIEDAD ACTUAL</a></td></tr><tr><td>0123</td><td><a href="http://dii.isi.uson.mx/asignaturas/0123.pdf">NUEVAS TECNOL. DE LA INFORM. Y LA COMUN.</a></td></tr><tr><td>0124</td><td><a href="http://dii.isi.uson.mx/asignaturas/0124.pdf">ETICA Y DESARROLLO PROFESIONAL</a></td></tr><tr><td>6880</td><td><a href="http://dii.isi.uson.mx/asignaturas/6880.pdf">ALGEBRA</a></td></tr><tr><td>6881</td><td><a href="http://dii.isi.uson.mx/asignaturas/6881.pdf">CALCULO DIFERENCIAL E INTEGRAL I</a></td></tr><tr><td>6882</td><td><a href="http://dii.isi.uson.mx/asignaturas/6882.pdf">INTRODUCCION A LA ISI</a></td></tr><tr><td>6883</td><td><a href="http://dii.isi.uson.mx/asignaturas/6883.pdf">QUIMICA I</a></td></tr><tr><td>6884</td><td><a href="http://dii.isi.uson.mx/asignaturas/6884.pdf">CALCULO DIFERENCIAL E INTEGRAL II</a></td></tr><tr><td>6885</td><td><a href="http://dii.isi.uson.mx/asignaturas/6885.pdf">FISICA I CON LABORATORIO</a></td></tr><tr><td>6886</td><td><a href="http://dii.isi.uson.mx/asignaturas/6886.pdf">GEOMETRIA ANALITICA</a></td></tr><tr><td>6887</td><td><a href="http://dii.isi.uson.mx/asignaturas/6887.pdf">TOPICOS DE MATEMATICAS DISCRETAS</a></td></tr><tr><td>7973s</td><td><a href="http://dii.isi.uson.mx/asignaturas/7973s.pdf">PROGRAMACION PARA INGENIEROS I</a></td></tr><tr><td>6889</td><td><a href="http://dii.isi.uson.mx/asignaturas/6889.pdf">CALCULO DIFERENCIAL E INTEGRAL III</a></td></tr><tr><td>6890</td><td><a href="http://dii.isi.uson.mx/asignaturas/6890.pdf">PROBABILIDAD Y ESTADISTICA</a></td></tr><tr><td>6891</td><td><a href="http://dii.isi.uson.mx/asignaturas/6891.pdf">TOPICOS DE ELECTRICIDAD Y ELECTRONICA</a></td></tr><tr><td>6893</td><td><a href="http://dii.isi.uson.mx/asignaturas/6893.pdf">SUSTENTABILIDAD EN LAS INGENIERIAS</a></td></tr><tr><td>6894</td><td><a href="http://dii.isi.uson.mx/asignaturas/6894.pdf">ELECTIVA DE SOCIALES O HUMANIDADES</a></td></tr><tr><td>7971s</td><td><a href="http://dii.isi.uson.mx/asignaturas/7971s.pdf">PROGRAMACION PARA INGENIEROS II</a></td></tr><tr><td>6895</td><td><a href="http://dii.isi.uson.mx/asignaturas/6895.pdf">ECUACIONES DIFERENCIALES I</a></td></tr><tr><td>6896</td><td><a href="http://dii.isi.uson.mx/asignaturas/6896.pdf">INTRODUCCION AL SOFTWARE DE BASE</a></td></tr><tr><td>6897</td><td><a href="http://dii.isi.uson.mx/asignaturas/6897.pdf">ELECTIVA DE SOCIALES O HUMANIDADES</a></td></tr><tr><td>6898</td><td><a href="http://dii.isi.uson.mx/asignaturas/6898.pdf">ESTRUCTURA DE DATOS</a></td></tr><tr><td>6900</td><td><a href="http://dii.isi.uson.mx/asignaturas/6900.pdf">REDES I</a></td></tr><tr><td>7983</td><td><a href="http://dii.isi.uson.mx/asignaturas/7983.pdf">INGENIERIA DE SISTEMAS</a></td></tr><tr><td>6902</td><td><a href="http://dii.isi.uson.mx/asignaturas/6902.pdf">ANALISIS Y DISENO DE SISTEMAS DE INFORM.</a></td></tr><tr><td>6903</td><td><a href="http://dii.isi.uson.mx/asignaturas/6903.pdf">BASES DE DATOS</a></td></tr><tr><td>6905</td><td><a href="http://dii.isi.uson.mx/asignaturas/6905.pdf">REDES II</a></td></tr><tr><td>6906</td><td><a href="http://dii.isi.uson.mx/asignaturas/6906.pdf">CULTURA EMPRENDEDORA</a></td></tr><tr><td>7980</td><td><a href="http://dii.isi.uson.mx/asignaturas/7980.pdf">ANALISIS DE DATOS EN INGENIERIA</a></td></tr><tr><td>7992</td><td><a href="http://dii.isi.uson.mx/asignaturas/7992.pdf">LOGISTICA Y COMERCIALIZACION</a></td></tr><tr><td>7993</td><td><a href="http://dii.isi.uson.mx/asignaturas/7993.pdf">MEJORA DE LA CALIDAD</a></td></tr><tr><td>6908</td><td><a href="http://dii.isi.uson.mx/asignaturas/6908.pdf">PROGRAMACION VISUAL Y EN INTERNET</a></td></tr><tr><td>6910</td><td><a href="http://dii.isi.uson.mx/asignaturas/6910.pdf">GRAFICACION Y MULTIMEDIA</a></td></tr><tr><td>6912</td><td><a href="http://dii.isi.uson.mx/asignaturas/6912.pdf">SISTEMAS DE INFORMACION</a></td></tr><tr><td>7977</td><td><a href="http://dii.isi.uson.mx/asignaturas/7977.pdf">COSTOS EN INGENIERIA</a></td></tr><tr><td>7990</td><td><a href="http://dii.isi.uson.mx/asignaturas/7990.pdf">INVESTIGACION DE OPERACIONES I</a></td></tr><tr><td>6913</td><td><a href="http://dii.isi.uson.mx/asignaturas/6913.pdf">INVEST. ELECTRONICA DE TEMAS SELECTOS</a></td></tr><tr><td>6914</td><td><a href="http://dii.isi.uson.mx/asignaturas/6914.pdf">ELECTIVA DE SOCIALES O HUMANIDADES</a></td></tr><tr><td>6916</td><td><a href="http://dii.isi.uson.mx/asignaturas/6916.pdf">PLANEACION ESTRATEGICA INFORMATICA</a></td></tr><tr><td>6934</td><td><a href="http://dii.isi.uson.mx/asignaturas/6934.pdf">TOPICOS AVANZADOS DE PROGRAMACION</a></td></tr><tr><td>8001</td><td><a href="http://dii.isi.uson.mx/asignaturas/8001.pdf">SIMULACION DE SISTEMAS</a></td></tr><tr><td>6918</td><td><a href="http://dii.isi.uson.mx/asignaturas/6918.pdf">INGENIERIA DE SOFTWARE</a></td></tr><tr><td>6919</td><td><a href="http://dii.isi.uson.mx/asignaturas/6919.pdf">PLANEACION Y CONTROL INDUSTRIAL</a></td></tr><tr><td>6920</td><td>ELECTIVA DPTO. ECONOMIA</td></tr><tr><td>6921</td><td><a href="http://dii.isi.uson.mx/asignaturas/6921.pdf">SIST. DE SOPORTE A LA TOMA DE DECISIONES</a></td></tr><tr><td>6922</td><td><a href="http://dii.isi.uson.mx/asignaturas/6922.pdf">SOLUCIONES INTEGRALES EN LAS EMPRESAS</a></td></tr><tr><td>6923</td><td>ESTANCIA PROFESIONAL</td></tr><tr><td>6924</td><td><a href="http://dii.isi.uson.mx/asignaturas/6924.pdf">DISENO DE INTERFACES DE USUARIO</a></td></tr><tr><td>6925</td><td><a href="http://dii.isi.uson.mx/asignaturas/6925.pdf">SISTEMAS DE INFORMACION BASADOS EN WEB</a></td></tr><tr><td>6926</td><td><a href="http://dii.isi.uson.mx/asignaturas/6926.pdf">TOPICOS ESPECIALES DE BASES DE DATOS</a></td></tr><tr><td>6927</td><td>SISTEMAS OPERATIVOS</td></tr><tr><td>6928</td><td><a href="http://dii.isi.uson.mx/asignaturas/6928.pdf">ARQUITECTURA DE COMPUTADORAS</a></td></tr><tr><td>6929</td><td><a href="http://dii.isi.uson.mx/asignaturas/6929.pdf">BASES DE DATOS DISTRIBUIDAS</a></td></tr><tr><td>6930</td><td><a href="http://dii.isi.uson.mx/asignaturas/6930.pdf">ADMINISTRACION DEL CONOCIMIENTO</a></td></tr><tr><td>6931</td><td><a href="http://dii.isi.uson.mx/asignaturas/6931.pdf">NEGOCIOS ELECTRONICOS</a></td></tr><tr><td>6932</td><td><a href="http://dii.isi.uson.mx/asignaturas/6932.pdf">RECUPERACION DE INFORMACION</a></td></tr><tr><td>6933</td><td><a href="http://dii.isi.uson.mx/asignaturas/6933.pdf">LENGUAJES DE PROGRAMACION</a></td></tr>	
+				</tbody>		
+		</table>
+		</div>
+<br>
+
+
+	</div>
+
+ <br>
+    <?php 
+    	include "footer.php";
+     ?>
+</div>
+</div>
+</body>
+</html>

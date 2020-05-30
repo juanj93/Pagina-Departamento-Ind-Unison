@@ -1,0 +1,20 @@
+----Sistema de Reportes----
+
+--Administrador
+
+-Poner un buscador en el listado de reportes,y poner filtros de busqueda por Maestros
+
+-Poner en el Listado de Reportes:
+
+Maestro, el problema, descripción, fecha inicio, modificación
+
+-Poner un link para ver reporte en el Listado de los Reportes
+
+-En el index poner un link en el nombre del solicitante poder mandar un correo
+
+-Cuando se ponga un estatus finalizado en el reporte mandar un mail al correo personal del solicitante que se finalizó el problema
+
+
+
+---Pagina del departamento:---
+Cambiar el diseño T.T

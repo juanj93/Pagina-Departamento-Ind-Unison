@@ -1,0 +1,66 @@
+header,
+main,
+nav{
+  display: block!important;
+}
+h1{
+  text-align: center!important;
+}
+
+
+button{
+  overflow: visible!important;
+  text-transform: none!important;
+  -webkit-appearance: button!important;
+  cursor: pointer!important;
+}
+button::-moz-focus-inner{
+  border: 0!important;
+  padding: 0!important;
+}
+* {
+  -webkit-box-sizing: border-box!important;
+  -moz-box-sizing: border-box!important;
+  box-sizing: border-box!important;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: border-box!important;
+  -moz-box-sizing: border-box!important;
+  box-sizing: border-box!important;
+}
+html {
+  -ms-text-size-adjust: 100%!important;
+  -webkit-text-size-adjust: 100%!important;
+  font-size: 62.5%!important;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0)!important;
+}
+.clearfix:before,
+.clearfix:after,
+.container:before,
+.container:after,
+.container-fluid:before,
+.container-fluid:after,
+.navbar-header:before,
+.navbar-header:after,
+.nav:before,
+.nav:after,
+.navbar:before,
+.navbar:after,
+.navbar-collapse:before,
+.navbar-collapse:after {
+  content: " "!important;
+  display: table!important;
+}
+.clearfix:after,
+.container:after,
+.container-fluid:after,
+.navbar-header:after,
+.nav:after,
+.navbar:after,
+.navbar-collapse:after {
+  clear: both!important;
+}
+@-ms-viewport {
+  width: device-width!important;
+}
